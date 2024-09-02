@@ -11,14 +11,14 @@
 
 ## 我的技术栈(My Tech Stack)
 ### 前端(Frontend)
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,nuxt)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue)
 <!-- ![HTML5](https://img.shields.io/badge/HTML5-e44d27?style=flat-square&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000)-->
 
 
 ### 后端(Backend)
-![My Skills](https://skillicons.dev/icons?i=nodejs,go,py,fastapi)
+![My Skills](https://skillicons.dev/icons?i=nodejs,java,py,fastapi)
 <!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
 
 
@@ -31,7 +31,7 @@
 ![My Skills](https://skillicons.dev/icons?i=vite,vscode,nginx,idea,docker,ipfs,git,ps,pr) -->
 
 ### 只会一点点(A little)
-![My Skills](https://skillicons.dev/icons?i=ts,postgresql,firebase,figma,linux,kubernetes)
+![My Skills](https://skillicons.dev/icons?i=ts,postgresql,firebase,figma,arch,debian,linux,go,docker)
 
 ### 将来想要学(Future Want)
-![My Skills](https://skillicons.dev/icons?i=solidjs,rust,tauri,actix,wasm,blender)
+![My Skills](https://skillicons.dev/icons?i=solidjs,rust,blender,ts,unity,unreal,kubernetes,react,rabbitmq)
