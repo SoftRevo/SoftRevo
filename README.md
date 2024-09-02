@@ -4,3 +4,34 @@
 - 📫 可以通过我的邮箱 yjw137221105@163.com 联系我
   
 大家好！萌新报道！目前正在学习基础知识呢，对很多知识都不甚了解，希望能从各位大佬那学习新东西！
+
+[![SoftRevo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SoftRevo)](https://github.com/SoftRevo)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AuroraTea&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
+## My Tech Stack
+### Frontend
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,vue,nuxt)
+<!-- ![HTML5](https://img.shields.io/badge/HTML5-e44d27?style=flat-square&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=000)-->
+
+
+### Backend
+![My Skills](https://skillicons.dev/icons?i=nodejs,go,py,fastapi)
+<!-- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) -->
+
+
+### Database
+![My Skills](https://skillicons.dev/icons?i=mysql,redis,mongodb,sqlite)
+
+<!-- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=fff) -->
+
+<!-- ### Tool
+![My Skills](https://skillicons.dev/icons?i=vite,vscode,nginx,idea,docker,ipfs,git,ps,pr) -->
+
+### A little
+![My Skills](https://skillicons.dev/icons?i=ts,postgresql,firebase,figma,linux,kubernetes)
+
+### Future Want
+![My Skills](https://skillicons.dev/icons?i=solidjs,rust,tauri,actix,wasm,blender)
